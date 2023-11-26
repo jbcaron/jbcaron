@@ -1,7 +1,7 @@
-<p align='center'>
-  Backend developper
-</p>
+## Backend developper
 
+
+Welcome to my GitHub! I'm Jean-Baptiste, a Junior Backend Developer with a passion for building scalable and efficient systems. My journey in computer science, particularly in backend development, has equipped me with a solid foundation in programming, system design, and data management.
 
 
 <p align='center'>
