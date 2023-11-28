@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="./github.png" />
+  <img src="./res/banner.png" alt="banner" />
 </p>
 
 ## Backend developper
@@ -10,13 +10,23 @@ Welcome to my GitHub! I'm Jean-Baptiste, a Junior Backend Developer with a passi
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jean-baptiste-caron-38597481/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    <img src="./res/linkedin.svg" />
+  </a>
+  <br/> <br/>
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/c_99%2B-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c 99+" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
+  <img src="./res/c.svg" alt="c language" />
+  <img src="./res/cpp.svg" alt="c++ language" />
+  <img src="./res/rust.svg" alt="rust language" />
+  <br/>
+  <img src="./res/docker.svg" alt="docker" />
+  <img src="./res/vagrant.svg" alt="vagrant" />
+  <img src="./res/ansible.svg" alt="ansible" />
+  <img src="./res/nginx.svg" alt="nginx" />
+  <br/>
+  <img src="./res/espressif.svg" alt="espressif" />
+
 </p>
 
 <p align='center'>
