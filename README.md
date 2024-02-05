@@ -2,10 +2,16 @@
   <img src="./res/banner.png" alt="banner" />
 </p>
 
-## Backend developper
+## Backend Developer Specializing in Rust and Blockchain Technologies
 
+Welcome to my GitHub profile! I'm Jean-Baptiste, a backend developer with a strong focus on building scalable and efficient systems using Rust. Currently, I'm contributing to Deoxys, a fullnode client for StarkNet developed by KasarLabs, aiming to enhance blockchain infrastructure with high-level optimizations and robust architectures.
 
-Welcome to my GitHub! I'm Jean-Baptiste, a Junior Backend Developer with a passion for building scalable and efficient systems. My journey in computer science, particularly in backend development, has equipped me with a solid foundation in programming, system design, and data management.
+## Current Projects
+### Deoxys - StarkNet Fullnode Client
+At KasarLabs, I'm part of the team developing Deoxys, focusing on leveraging Rust's efficiency and safety to provide a reliable fullnode client for the StarkNet ecosystem. [Learn more about Deoxys](https://github.com/KasarLabs/deoxys)
+
+## Collaborate and Connect
+I'm always open to collaborating on projects that push the boundaries of blockchain and Rust. Feel free to reach out for contributions, discussions, or potential projects.
 
 
 <p align='center'>
