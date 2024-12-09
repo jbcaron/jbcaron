@@ -4,11 +4,11 @@
 
 ## Backend Developer Specializing in Rust and Blockchain Technologies
 
-Welcome to my GitHub profile! I'm Jean-Baptiste, a backend developer with a strong focus on building scalable and efficient systems using Rust. Currently, I'm contributing to Deoxys, a fullnode client for StarkNet developed by KasarLabs, aiming to enhance blockchain infrastructure with high-level optimizations and robust architectures.
+Welcome to my GitHub profile! I'm Jean-Baptiste, a backend developer with a strong focus on building scalable and efficient systems using Rust. Currently, I'm contributing to Madara, a sequencer for Starknet, aiming to enhance blockchain infrastructure with high-level optimizations and robust architectures.
 
 ## Current Projects
-### Deoxys - StarkNet Fullnode Client
-At KasarLabs, I'm part of the team developing Deoxys, focusing on leveraging Rust's efficiency and safety to provide a reliable fullnode client for the StarkNet ecosystem. [Learn more about Deoxys](https://github.com/KasarLabs/deoxys)
+### Deoxys - Starknet Sequencer/Fullnode
+At KasarLabs, I'm part of the team developing Madara, focusing on leveraging Rust's efficiency and safety to provide a reliable sequencer for the Starknet ecosystem. [Learn more about Madara](https://github.com/madara-alliance/madara)
 
 ## Collaborate and Connect
 I'm always open to collaborating on projects that push the boundaries of blockchain and Rust. Feel free to reach out for contributions, discussions, or potential projects.
